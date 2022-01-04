@@ -8,6 +8,8 @@ Probably the most modern and sophisticated insecure web application ever created
 - [DockerHub Image](https://hub.docker.com/r/bkimminich/juice-shop)
 - [Official Companion](https://pwning.owasp-juice.shop/)
 - [Customization](https://pwning.owasp-juice.shop/part1/customization.html)
+- [YouTube: APIs hacken, wie geht das? API Sicherheit am Beispiel](https://www.youtube.com/watch?v=wGtS5qQ0bC0)
+- [Schulung: REST & API Sicherheit](https://www.predic8.de/api-rest-security-schulung.htm)
 
 ## Run with Docker
 
