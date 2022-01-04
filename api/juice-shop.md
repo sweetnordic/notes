@@ -14,3 +14,8 @@ Probably the most modern and sophisticated insecure web application ever created
 1. Run `docker pull bkimminich/juice-shop`
 2. Run `docker run --rm -p 3000:3000 bkimminich/juice-shop`
 3. Browse to `http://localhost:3000`
+
+## Run with Docker Compose
+
+1. Run `docker-compose up`
+2. Browse to `http://localhost:3000`
